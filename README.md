@@ -158,13 +158,6 @@ La escucha activa consiste en prestar atención plena a lo que otra persona est�
 
 Por ejemplo, durante una conversación difícil con un ser querido, practicar la escucha activa puede evitar malentendidos y fortalecer la relación.
 
-<style>
-p {
-    text-align: justify;
-}
-</style>
-```
-
 ## 11. Asertividad
 
 La asertividad es la capacidad de expresar nuestros pensamientos y sentimientos respetando tanto nuestras necesidades como las de los demás. Ser asertivo implica encontrar un equilibrio entre ser pasivo (ceder siempre) o agresivo (imponer nuestras ideas).
