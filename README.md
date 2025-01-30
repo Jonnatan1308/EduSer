@@ -7,7 +7,7 @@ Somos una institución educativa que cree en la educación como un camino para e
 Creemos firmemente que el aprendizaje se fortalece cuando los estudiantes desarrollan habilidades socioemocionales que les permiten conocerse a sí mismos, regular sus emociones, establecer relaciones positivas y tomar decisiones responsables. Por ello, nuestra propuesta educativa combina una formación académica de excelencia con un acompañamiento que prioriza el bienestar emocional y el desarrollo de habilidades clave para la vida.  
 
 Nuestra comunidad educativa está conformada por docentes apasionados, psicólogos especializados y familias comprometidas con el crecimiento personal de sus hijos. Juntos, creamos un entorno seguro, inclusivo y motivador, donde cada estudiante encuentra el apoyo necesario para alcanzar su máximo potencial, no solo en lo académico, sino también en lo personal y social.  
-
+</p>
 ---
 
 ## Nuestro objetivo  
@@ -23,7 +23,7 @@ Para lograrlo, trabajamos en el fortalecimiento de competencias socioemocionales
 - Adquieran la capacidad de perseverar frente a los desafíos, enfrentando la frustración con estrategias saludables.  
 
 Además, nos aseguramos de que cada estudiante reciba el apoyo necesario para fortalecer su bienestar emocional, impulsando un aprendizaje significativo que los prepare para la vida.  
-
+</p>
 ---
 
 ## Nuestra misión  
@@ -33,7 +33,7 @@ Nuestra misión es formar estudiantes íntegros, autónomos y comprometidos con 
 Promovemos un ambiente escolar en el que la confianza, la seguridad emocional y la motivación sean pilares fundamentales. Creemos que el aprendizaje sucede de manera más efectiva cuando los estudiantes se sienten comprendidos, valorados y apoyados en su proceso de crecimiento.  
 
 A través de estrategias innovadoras, un equipo docente altamente capacitado y un enfoque centrado en la persona, buscamos que nuestros estudiantes adquieran herramientas para la vida, desarrollen un pensamiento crítico y sean ciudadanos responsables, capaces de construir un mundo más justo y humano.  
-
+</p>
 ---
 
 ## Nuestra visión  
@@ -50,7 +50,7 @@ Para lograr esta visión, nos comprometemos a:
 - Garantizar un ambiente de respeto, inclusión y diversidad, en el que cada estudiante se sienta valorado y aceptado.  
 
 Creemos que la educación es el camino para transformar vidas, y estamos comprometidos a formar generaciones que no solo sean exitosas en lo académico, sino también en lo humano.  
-
+</p>
 ---
 
 ## Competencias Socioemocionales  
