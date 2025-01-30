@@ -1,56 +1,82 @@
 # EduSer  
 
 ## Quiénes somos  
+
 <p align="justify">
-Somos una institución educativa que cree en la educación como un camino para el crecimiento integral de cada estudiante. Nuestra misión va más allá de la enseñanza de contenidos académicos; buscamos formar personas seguras de sí mismas, capaces de gestionar sus emociones, relacionarse de manera sana con los demás y afrontar los desafíos de la vida con resiliencia y determinación.  
+Somos una institución educativa que cree en la educación como un camino para el crecimiento integral de cada estudiante. Nuestra misión va más allá de la enseñanza de contenidos académicos; buscamos formar personas seguras de sí mismas, capaces de gestionar sus emociones, relacionarse de manera sana con los demás y afrontar los desafíos de la vida con resiliencia y determinación.
+</p>  
 
-Creemos firmemente que el aprendizaje se fortalece cuando los estudiantes desarrollan habilidades socioemocionales que les permiten conocerse a sí mismos, regular sus emociones, establecer relaciones positivas y tomar decisiones responsables. Por ello, nuestra propuesta educativa combina una formación académica de excelencia con un acompañamiento que prioriza el bienestar emocional y el desarrollo de habilidades clave para la vida.  
+<p align="justify">
+Creemos firmemente que el aprendizaje se fortalece cuando los estudiantes desarrollan habilidades socioemocionales que les permiten conocerse a sí mismos, regular sus emociones, establecer relaciones positivas y tomar decisiones responsables. Por ello, nuestra propuesta educativa combina una formación académica de excelencia con un acompañamiento que prioriza el bienestar emocional y el desarrollo de habilidades clave para la vida.
+</p>  
 
-Nuestra comunidad educativa está conformada por docentes apasionados, psicólogos especializados y familias comprometidas con el crecimiento personal de sus hijos. Juntos, creamos un entorno seguro, inclusivo y motivador, donde cada estudiante encuentra el apoyo necesario para alcanzar su máximo potencial, no solo en lo académico, sino también en lo personal y social.  
-</p>
+<p align="justify">
+Nuestra comunidad educativa está conformada por docentes apasionados, psicólogos especializados y familias comprometidas con el crecimiento personal de sus hijos. Juntos, creamos un entorno seguro, inclusivo y motivador, donde cada estudiante encuentra el apoyo necesario para alcanzar su máximo potencial, no solo en lo académico, sino también en lo personal y social.
+</p>  
+
 ---
 
 ## Nuestro objetivo  
+
 <p align="justify">
-Nuestro principal objetivo es brindar una educación integral que no solo prepare a nuestros estudiantes en conocimientos académicos, sino que también los dote de herramientas emocionales y sociales que les permitan enfrentar con éxito los retos del mundo actual.  
+Nuestro principal objetivo es brindar una educación integral que no solo prepare a nuestros estudiantes en conocimientos académicos, sino que también los dote de herramientas emocionales y sociales que les permitan enfrentar con éxito los retos del mundo actual.
+</p>  
 
-Para lograrlo, trabajamos en el fortalecimiento de competencias socioemocionales como la autoestima, la resiliencia, la empatía, la toma de decisiones responsables y la regulación emocional. Buscamos que nuestros estudiantes:  
+<p align="justify">
+Para lograrlo, trabajamos en el fortalecimiento de competencias socioemocionales como la autoestima, la resiliencia, la empatía, la toma de decisiones responsables y la regulación emocional. Buscamos que nuestros estudiantes:
+</p>  
 
-- Reconozcan y valoren sus características personales, desarrollando una identidad segura y positiva.  
-- Aprendan a gestionar sus emociones y a expresarlas de manera asertiva.  
-- Fomenten relaciones sanas y respetuosas con sus compañeros, docentes, familia y comunidad.  
-- Desarrollen habilidades de liderazgo, trabajo en equipo y resolución de conflictos.  
-- Adquieran la capacidad de perseverar frente a los desafíos, enfrentando la frustración con estrategias saludables.  
+- **Reconozcan y valoren** sus características personales, desarrollando una identidad segura y positiva.  
+- **Aprendan a gestionar** sus emociones y a expresarlas de manera asertiva.  
+- **Fomenten relaciones** sanas y respetuosas con sus compañeros, docentes, familia y comunidad.  
+- **Desarrollen habilidades** de liderazgo, trabajo en equipo y resolución de conflictos.  
+- **Adquieran la capacidad** de perseverar frente a los desafíos, enfrentando la frustración con estrategias saludables.  
 
-Además, nos aseguramos de que cada estudiante reciba el apoyo necesario para fortalecer su bienestar emocional, impulsando un aprendizaje significativo que los prepare para la vida.  
-</p>
+<p align="justify">
+Además, nos aseguramos de que cada estudiante reciba el apoyo necesario para fortalecer su bienestar emocional, impulsando un aprendizaje significativo que los prepare para la vida.
+</p>  
+
 ---
 
 ## Nuestra misión  
+
 <p align="justify">
-Nuestra misión es formar estudiantes íntegros, autónomos y comprometidos con su propio desarrollo y con el bienestar de su comunidad. Nos esforzamos por ofrecer una educación de calidad que equilibre el conocimiento académico con el desarrollo socioemocional, permitiendo que cada niño y joven descubra su potencial, fortalezca su identidad y cultive relaciones positivas basadas en el respeto, la empatía y la cooperación.  
+Nuestra misión es formar estudiantes íntegros, autónomos y comprometidos con su propio desarrollo y con el bienestar de su comunidad. Nos esforzamos por ofrecer una educación de calidad que equilibre el conocimiento académico con el desarrollo socioemocional, permitiendo que cada niño y joven descubra su potencial, fortalezca su identidad y cultive relaciones positivas basadas en el respeto, la empatía y la cooperación.
+</p>  
 
-Promovemos un ambiente escolar en el que la confianza, la seguridad emocional y la motivación sean pilares fundamentales. Creemos que el aprendizaje sucede de manera más efectiva cuando los estudiantes se sienten comprendidos, valorados y apoyados en su proceso de crecimiento.  
+<p align="justify">
+Promovemos un ambiente escolar en el que la confianza, la seguridad emocional y la motivación sean pilares fundamentales. Creemos que el aprendizaje sucede de manera más efectiva cuando los estudiantes se sienten comprendidos, valorados y apoyados en su proceso de crecimiento.
+</p>  
 
-A través de estrategias innovadoras, un equipo docente altamente capacitado y un enfoque centrado en la persona, buscamos que nuestros estudiantes adquieran herramientas para la vida, desarrollen un pensamiento crítico y sean ciudadanos responsables, capaces de construir un mundo más justo y humano.  
-</p>
+<p align="justify">
+A través de estrategias innovadoras, un equipo docente altamente capacitado y un enfoque centrado en la persona, buscamos que nuestros estudiantes adquieran herramientas para la vida, desarrollen un pensamiento crítico y sean ciudadanos responsables, capaces de construir un mundo más justo y humano.
+</p>  
+
 ---
 
 ## Nuestra visión  
+
 <p align="justify">
-Nos proyectamos como una institución educativa de referencia en el desarrollo de habilidades socioemocionales, donde cada estudiante tenga la oportunidad de crecer en un entorno seguro y enriquecedor. Queremos ser reconocidos por nuestra capacidad de formar personas emocionalmente inteligentes, capaces de afrontar los retos del futuro con confianza, resiliencia y responsabilidad social.  
+Nos proyectamos como una institución educativa de referencia en el desarrollo de habilidades socioemocionales, donde cada estudiante tenga la oportunidad de crecer en un entorno seguro y enriquecedor. Queremos ser reconocidos por nuestra capacidad de formar personas emocionalmente inteligentes, capaces de afrontar los retos del futuro con confianza, resiliencia y responsabilidad social.
+</p>  
 
-Imaginamos un mundo en el que nuestros egresados sean líderes positivos, personas empáticas y ciudadanos comprometidos con el bienestar de los demás. Aspiramos a que cada niño y joven que pase por nuestras aulas lleve consigo no solo conocimientos académicos, sino también valores sólidos, habilidades emocionales y la seguridad de que puede contribuir al cambio en su entorno.  
+<p align="justify">
+Imaginamos un mundo en el que nuestros egresados sean líderes positivos, personas empáticas y ciudadanos comprometidos con el bienestar de los demás. Aspiramos a que cada niño y joven que pase por nuestras aulas lleve consigo no solo conocimientos académicos, sino también valores sólidos, habilidades emocionales y la seguridad de que puede contribuir al cambio en su entorno.
+</p>  
 
-Para lograr esta visión, nos comprometemos a:  
+<p align="justify">
+Para lograr esta visión, nos comprometemos a:
+</p>  
 
-- Seguir innovando en nuestras metodologías de enseñanza, integrando estrategias que promuevan el bienestar emocional y el aprendizaje significativo.  
-- Fomentar una comunidad educativa colaborativa, en la que estudiantes, docentes y familias trabajen juntos en la construcción de un entorno positivo.  
-- Potenciar el liderazgo y la autonomía de nuestros estudiantes, brindándoles herramientas para que sean agentes de cambio en su entorno.  
-- Garantizar un ambiente de respeto, inclusión y diversidad, en el que cada estudiante se sienta valorado y aceptado.  
+- **Seguir innovando** en nuestras metodologías de enseñanza, integrando estrategias que promuevan el bienestar emocional y el aprendizaje significativo.  
+- **Fomentar una comunidad educativa** colaborativa, en la que estudiantes, docentes y familias trabajen juntos en la construcción de un entorno positivo.  
+- **Potenciar el liderazgo y la autonomía** de nuestros estudiantes, brindándoles herramientas para que sean agentes de cambio en su entorno.  
+- **Garantizar un ambiente de respeto, inclusión y diversidad**, en el que cada estudiante se sienta valorado y aceptado.  
 
-Creemos que la educación es el camino para transformar vidas, y estamos comprometidos a formar generaciones que no solo sean exitosas en lo académico, sino también en lo humano.  
-</p>
+<p align="justify">
+Creemos que la educación es el camino para transformar vidas, y estamos comprometidos a formar generaciones que no solo sean exitosas en lo académico, sino también en lo humano.
+</p>  
+
 ---
 
 ## Competencias Socioemocionales  
@@ -72,8 +98,9 @@ Creemos que la educación es el camino para transformar vidas, y estamos comprom
 13. **Motivación de logro** – Impulsarnos a alcanzar nuestras metas y planes de vida.  
 14. **Perseverancia** – Mantenernos esforzándonos para lograr nuestras metas a pesar de las dificultades.  
 15. **Manejo del estrés** – Tomar acciones para reducir la presión y las tensiones de la vida diaria.  
-16. **Generación de opciones** – Pensar en muchas opciones para tomar una decisión o para resolver un problema.  
+16. **Generación de opciones** – Pensar en muchas opciones para tomar una decisión o para resolver un problema, evaluar diferentes cursos de acción y elegir la mejor opción considerando sus consecuencias.  
 17. **Pensamiento crítico** – Reflexionar basados en razones y perspectivas diversas, decidir qué creer y hacer.  
 18. **Análisis de consecuencias** – Identificar qué pasará después frente a diferentes cursos de acción en la toma de decisiones.  
+
 
 
