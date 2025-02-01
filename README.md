@@ -2,7 +2,7 @@
 
 <img scr="https://github.com/Jonnatan1308/EduSer/blob/7cd4058091b2e52e09cf58f8b4cfc1366bb07a9d/Logo.jpg" />
 
-![Manco](https://github.com/Jonnatan1308/EduSer/blob/7cd4058091b2e52e09cf58f8b4cfc1366bb07a9d/Logo.jpg)¡
+
 ## Quiénes somos  
 
 <p align="justify">
