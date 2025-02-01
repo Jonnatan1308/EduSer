@@ -112,9 +112,43 @@ Creemos que la educación es el camino para transformar vidas, y estamos comprom
 Las competencias socioemocionales son un conjunto de habilidades que nos permiten gestionar nuestras emociones, establecer relaciones saludables, tomar decisiones responsables y enfrentar los desafíos de la vida con resiliencia. Estas competencias no solo son esenciales para el bienestar personal, sino que también son fundamentales para construir una sociedad más empática, colaborativa y equitativa. A continuación, se presenta un análisis detallado y ampliado de cada competencia, su significado y su impacto en nuestra vida.
 
 ## **1. Autoconcepto**
-El autoconcepto es la percepción que tenemos de nosotros mismos, una construcción interna que abarca nuestras características personales, habilidades, valores, creencias y limitaciones. Reconocer quiénes somos y valorar lo que nos hace únicos es un paso esencial para el desarrollo personal.
+El autoconcepto es un constructo psicológico que se refiere a la imagen que una persona tiene de sí misma, abarcando sus características, habilidades, valores y creencias. Esta percepción se forma a lo largo de la vida a través de experiencias personales y la influencia de las interacciones sociales, especialmente con personas significativas en la vida del individuo. A diferencia de la autoestima, que se centra en la valoración emocional de uno mismo, el autoconcepto se enfoca en la percepción cognitiva de uno mismo.
 
-Un autoconcepto positivo fomenta la autoestima y nos permite enfrentar los retos con confianza. Sin embargo, también implica aceptar nuestras imperfecciones y trabajar en ellas sin caer en la autocrítica destructiva. Por ejemplo, una persona con un buen autoconcepto puede reconocer que tiene habilidades sociales destacadas pero que necesita mejorar en la gestión del tiempo, lo cual le permitirá crecer de manera equilibrada.
+## Componentes del Autoconcepto
+
+Según el psicólogo Carl Rogers, el autoconcepto se compone de tres partes fundamentales:
+
+1. **Componente Cognitivo (Autoimagen):** Se refiere a los pensamientos y creencias que una persona tiene sobre sí misma. Incluye aspectos como habilidades, características físicas y rasgos de personalidad.
+2. **Componente Afectivo (Autoestima):** Relacionado con las emociones y sentimientos hacia uno mismo. Este componente refleja cómo una persona valora su propia existencia y sus capacidades.
+3. **Componente Comportamental (Motivación y Autoideal):** Se refiere a cómo las percepciones sobre uno mismo influyen en el comportamiento, decisiones y actitudes.
+
+## Formación del Autoconcepto
+
+El autoconcepto se desarrolla a través de diversas experiencias vitales y está influenciado tanto por factores internos como externos. Dos elementos clave en su formación son:
+
+- **Identidad Personal:** Incluye rasgos de personalidad, gustos, pensamientos y creencias individuales.
+- **Identidad Social:** Engloba las relaciones sociales, incluyendo amistades, familia y grupos a los que se pertenece.
+
+A medida que una persona vive nuevas experiencias y enfrenta desafíos, su autoconcepto puede redefinirse, permitiendo una imagen más compleja y realista de sí misma.
+
+## Importancia del Autoconcepto
+
+El autoconcepto es crucial para el bienestar emocional y social. Una percepción positiva de uno mismo puede facilitar relaciones interpersonales saludables y contribuir a una autoestima alta. Por otro lado, un autoconcepto negativo puede llevar a problemas emocionales y dificultades en las relaciones.
+
+## Diferencias entre Autoconcepto y Autoestima
+
+| Autoconcepto | Autoestima |
+|-------------|-----------|
+| Percepción cognitiva de uno mismo | Valoración emocional de uno mismo |
+| Incluye aspectos positivos y negativos | Se centra en la valoración positiva |
+| Se forma a lo largo de la vida | Puede ser influenciada por factores internos y externos |
+
+Es posible tener un autoconcepto positivo pero una autoestima baja, lo que indica que una persona puede verse bien a sí misma sin valorarse adecuadamente.
+
+## Conclusión
+
+El autoconcepto es un aspecto fundamental de la identidad humana que influye en cómo nos relacionamos con nosotros mismos y con los demás. Comprenderlo permite no solo mejorar nuestra autoimagen, sino también fomentar un desarrollo personal más saludable y equilibrado. La atención al autoconcepto es esencial para promover un bienestar emocional robusto en cualquier etapa de la vida.
+
 
 ## **2. Autoeficacia**
 La autoeficacia es la creencia en nuestra capacidad para alcanzar metas y superar desafíos. Esta competencia está profundamente relacionada con la motivación y la perseverancia. Una persona con alta autoeficacia no se rinde fácilmente ante los obstáculos; al contrario, ve las dificultades como oportunidades para aprender y mejorar.
